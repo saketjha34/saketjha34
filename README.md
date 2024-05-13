@@ -1,6 +1,6 @@
 
 ### About Me:  
-Student at the National Institute of Technology Karnataka in Mangalore, India, I am deeply entrenched in the fascinating world of AI and data science. With a robust toolkit comprising scikit-learn, PyTorch, TensorFlow, NLTK, and a keen eye for data visualization, my expertise spans various domains. Specializing in computer vision and advanced models like RNNs, ResNets, and LSTMs, I showcase a profound understanding of Machine learning fundamentals. Moreover, my Mathematical acumen, encompassing linear algebra, matrix calculus, and vector calculus, reinforces my analytical prowess. Beyond the academic realm, I find solace in observing sports and games, a passion that enriches my multifaceted persona.
+Student at National Institute of Technology Karnataka in Mangalore, India, I am deeply entrenched in the fascinating world of AI and data science. With a robust toolkit comprising scikit-learn, PyTorch, TensorFlow, NLTK, and a keen eye for data visualization, my expertise spans various domains. Specializing in computer vision and advanced models like RNNs, ResNets, and LSTMs, I showcase a profound understanding of Machine learning fundamentals. Moreover, my Mathematical acumen, encompassing linear algebra, matrix calculus, and vector calculus, reinforces my analytical prowess. Beyond the academic realm, I find solace in observing sports and games, a passion that enriches my multifaceted persona.
 
 In my academic pursuits, I emerge as a dedicated enthusiast, exploring the frontiers of generative AI and LLMs while honing my skills in mathematical intricacies. With an insatiable curiosity driving me forward, I represent a blend of academic rigor and diverse interests, embodying a spirit of continuous learning and exploration.
   
@@ -20,7 +20,7 @@ In my academic pursuits, I emerge as a dedicated enthusiast, exploring the front
 ### Languages:
 | Python3 | C++ |  
 
-|----------|----------|----------|-----|
+|----------|----------|
 
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C"  alt="C" width="55" height="55"/>
 
@@ -75,8 +75,5 @@ In my academic pursuits, I emerge as a dedicated enthusiast, exploring the front
   <img src="https://komarev.com/ghpvc/?username=saketjha34&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 
