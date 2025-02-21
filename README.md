@@ -65,12 +65,6 @@ In my academic pursuits, I emerge as a dedicated enthusiast, exploring the front
 
 [![Saket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saketjha34)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saketjha34&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketjha34&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=saketjha34&show_icons=true&theme=vision-friendly-dark">
