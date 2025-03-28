@@ -1,8 +1,6 @@
 
 ### About Me:  
-Student at National Institute of Technology Karnataka in Mangalore, India, I am deeply entrenched in the fascinating world of AI and data science. With a robust toolkit comprising scikit-learn, PyTorch, TensorFlow, NLTK, and a keen eye for data visualization, my expertise spans various domains. Specializing in computer vision and advanced models like RNNs, ResNets, and LSTMs, I showcase a profound understanding of Machine learning fundamentals. Moreover, my Mathematical acumen, encompassing linear algebra, matrix calculus, and vector calculus, reinforces my analytical prowess. Beyond the academic realm, I find solace in observing sports and games, a passion that enriches my multifaceted persona.
-
-In my academic pursuits, I emerge as a dedicated enthusiast, exploring the frontiers of generative AI and LLMs while honing my skills in mathematical intricacies. With an insatiable curiosity driving me forward, I represent a blend of academic rigor and diverse interests, embodying a spirit of continuous learning and exploration.
+Student at National Institute of Technology Karnataka in Mangalore, India, I am deeply entrenched in the fascinating world of AI and data science.
   
  
 ### Social media: 📡   
