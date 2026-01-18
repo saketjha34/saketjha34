@@ -1,4 +1,5 @@
 # Hi 👋, I'm Saket Jha
+## Student at National Institute of Technology Karnataka , Mangalore, India, I am deeply entrenched in the fascinating world of AI and Data Science.
 
 - 📫 How to reach me **saketjha0324@gmail.com**
 
