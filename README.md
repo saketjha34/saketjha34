@@ -39,7 +39,7 @@
 
 
 # 📊 GitHub Stats:
-[![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketjha34)](https://github.com/saketjha34/github-readme-stats)
+[![Saket's GitHub stats](https://github-readme-stats.vercel.app/api?username=saketjha34)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saketjha34)
