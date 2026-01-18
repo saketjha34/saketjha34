@@ -1,6 +1,5 @@
 # Hi 👋, I'm Saket Jha
 
-### A passionate Jupyter notebook developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketjha34&label=Profile views&color=0e75b6&style=flat" alt="saketjha34" /> </p>
 
