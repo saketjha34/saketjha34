@@ -1,12 +1,8 @@
 # Hi 👋, I'm Saket Jha
-## Student at National Institute of Technology Karnataka , Mangalore, India, I am deeply entrenched in the fascinating world of AI and Data Science.
 
 - 📫 How to reach me **saketjha0324@gmail.com**
-
 - 👨‍💻 All of my projects are available at **[Portfolio](https://jhasaketsunil.vercel.app/)**
-
 - 📝 I regularly write articles on **[Medium](https://www.linkedin.com/in/saketjha34/)**
-
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G5dB2H8XVRCqwfngTUVFXZ7TrmkH2mSe/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +16,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=saketjha34&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
