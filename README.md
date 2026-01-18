@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/saketjha34/](https://www.linkedin.com/in/saketjha34/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1G5dB2H8XVRCqwfngTUVFXZ7TrmkH2mSe/view?usp=drive_link](https://drive.google.com/file/d/1G5dB2H8XVRCqwfngTUVFXZ7TrmkH2mSe/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G5dB2H8XVRCqwfngTUVFXZ7TrmkH2mSe/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
