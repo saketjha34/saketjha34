@@ -1,15 +1,10 @@
 # Hi 👋, I'm Saket Jha
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saketjha34&label=Profile views&color=0e75b6&style=flat" alt="saketjha34" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saketjha34" alt="saketjha34" /></a> </p>
-
 - 📫 How to reach me **saketjha0324@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://jhasaketsunil.vercel.app/](https://jhasaketsunil.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://jhasaketsunil.vercel.app/)**
 
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/saketjha34/](https://www.linkedin.com/in/saketjha34/)**
+- 📝 I regularly write articles on **[Medium](https://www.linkedin.com/in/saketjha34/)**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1G5dB2H8XVRCqwfngTUVFXZ7TrmkH2mSe/view?usp=drive_link)**
 
